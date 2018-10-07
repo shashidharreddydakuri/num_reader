@@ -1,2 +1,2 @@
 # num_reader
-Hand Written Digits
+Hand Written Digits accuracy 97 percentage
